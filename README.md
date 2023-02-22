@@ -2,4 +2,4 @@
 
 ## NOTE
 
-- Nếu commit mà thiếu message thì ghi thêm message và dùng :qw để exit màn hình đen
+- Nếu commit mà thiếu message thì ghi thêm message và dùng (ESC) :qw để exit màn hình đen
